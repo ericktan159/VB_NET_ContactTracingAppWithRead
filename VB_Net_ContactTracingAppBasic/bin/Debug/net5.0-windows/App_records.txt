@@ -1,0 +1,38 @@
+Section 1: 
+Name: 	Fred	B.	Tan
+Age: 	25
+Contact Number: 	09123456789
+E-Mail: 	ericktan159@gmail.com
+Gender: 	Male
+Date: 	Thursday, June 9, 2022
+Barangay: 	San Roque 
+
+*Health Condition	
+If Has Fever: 	No
+If Has Dry Cough 	No
+If Has Sore Throat: 	No
+If Has Tiredines: 	No
+
+END_OF_SECTION_1
+
+
+
+Section 2: 
+Name: 	Ercik	B.	Tan
+Age: 	25
+Contact Number: 	09123456789
+E-Mail: 	ericktan159@gmail.com
+Gender: 	Male
+Date: 	Thursday, June 9, 2022
+Barangay: 	San Roque
+
+*Health Condition	
+If Has Fever: 	No
+If Has Dry Cough 	No
+If Has Sore Throat: 	No
+If Has Tiredines: 	No
+
+END_OF_SECTION_2
+
+
+

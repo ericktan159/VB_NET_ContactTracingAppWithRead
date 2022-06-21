@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VB_Net_ContactTracingApp/1.0.0": {
+        "runtime": {
+          "VB_Net_ContactTracingApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VB_Net_ContactTracingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
